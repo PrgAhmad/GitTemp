@@ -20,4 +20,7 @@ Here’s an example of a basic "Hello World" program in Python:
 ```javascript
 # Hello World
 console.log("Ahmad Raza")
+for(int i=1; i<=5 i++){
+    console.log(i)
+}
 
