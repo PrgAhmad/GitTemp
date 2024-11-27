@@ -17,6 +17,7 @@ This project includes:
 
 Here’s an example of a basic "Hello World" program in Python:
 
-```python
+```javascript
 # Hello World
-print("Hello World")
+console.log("Ahmad Raza")
+
