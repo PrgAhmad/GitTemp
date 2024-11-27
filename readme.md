@@ -1,12 +1,21 @@
-# Hello World
+# Hello World Project
 
-This is a simple project that demonstrates the classic "Hello, World!" program.
+A simple project demonstrating the "Hello World" program and the issues faced while working with Git.
+
+---
 
 ## Description
 
-This project serves as a basic template for getting started with any programming language or environment by outputting "Hello, World!" to the console.
+This project includes:
+- A basic "Hello World" program.
+- Troubleshooting and documenting Git-related errors encountered during project setup.
+- Steps to resolve issues like non-fast-forward errors and merging unrelated histories.
+
+---
 
 ## Code Example
+
+Here’s an example of a basic "Hello World" program in Python:
 
 ```python
 # Hello World
